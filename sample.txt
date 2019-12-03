@@ -1,2 +1,3 @@
 name : chandrakant aade
 email : caade48@gmail.com
+hobbies : playing cricket
